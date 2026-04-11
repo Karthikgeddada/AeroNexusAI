@@ -1,4 +1,4 @@
-https://aeronexus-ai.up.railway.app/
+https://aeronexusai-sfnelcvh8cja5w3awwobsj.streamlit.app/
 
 ✈️ AeroNexus AI — Airline Strategy Intelligence Platform
 🚀 Overview
